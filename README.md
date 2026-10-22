@@ -5,7 +5,7 @@ Due to my tendency to reinstall Debian into my machine, I wanted to keep this he
 ***
 ### Software this removes
 * LibreOffice suite.
-* Evolution, Shotwell, and other System utilities I don't use.
+* Evolution, Shotwell, and other desktop utilities I don't use.
 * Documentation such as the Debian Reference Guide or GNOME Tour.
 ***
 ### Required Software to run
